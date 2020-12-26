@@ -2,11 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset= "uts-8" />
-        <title> Aninka's Website </title>
-        <style>
-            body {background-color:whitesmoke;}
-        </style>
+        <meta charset= "uts-8" /
         <meta name= "description" content="Aninka's Personal Website" />
         <link rel+ "stylesheet" href= "css/styles.css"
     </head>
